@@ -10,44 +10,33 @@
 
 - There is NO GUILT here. NOR SHAME. Not knowing things is fine. Not
   finishing them is fine too. Be a disaster! Make a disaster!
-- Type "control-L" to redraw your screen if it gets messed up
-- Type "mesg n" if you don't want messages, "mesg y" if you do
-- This is a place for making awesome web pages. If you want to do
-  things that aren't about web pages, hit me up and we'll figure out
-  how you can start your own tilde.club
-- There's an IRC server and your choice of three clients.
-  - Type "chat"
-  - other clients: connect to localhost port 6667, join #club
+- (Any of the words in [;1mbold[0m can be looked up in the wiki by typing
+  "wiki <boldword>".)
+- This is a place for making awesome web pages, and other things. It is a part
+  of the larger [;1mtildeverse[0m.
+- Type "control-L" to redraw your screen if it gets messed up.
+- There's an [;1mirc[0m server and your choice of clients. Type "chat".
 - Type "faq" to read some FAQ
-- git repos for hacks: https://github.com/tildeclub
-- finger works locally and externally
-- Mail works, use mail, alpine, or mutt or webmail: https://webmail.tilde.club
-- there's consolidated documentation on our wiki at https://tilde.club/wiki/
-  contribute some fixes or a new article by submitting a PR to the site repo.
-
-- tilde.club mailing list available at:
-  https://lists.tildeverse.org/postorius/lists/tildeclub.lists.tildeverse.org/
-  new users are automatically subscribed using their $user@tilde.club address.
-  old users with a contact email are subscribed with that email.
-  create an account with the email you're subscribed with to adjust your subscription.
-
-- bbj: bulletin butter and jelly, a cozy bbs in your terminal
-- ttrv: Terminal based Reddit viewer. (used to be RTV) 
-  - Contribute to ttrv: https://github.com/tildeclub/ttrv
-- asciifarm: lovely game by our very own ~troido
-- botany: water your plants and help others take care of theirs
-- dcss: connect to crawl.tildeverse.org to play dungeon crawl stone soup,
-  a roguelike game with leaderboards and the ability to spectate other players
-  also available with full images on the web! https://crawl.tildeverse.org
-- If you like what tilde.club does and would like to contribute to the costs of running such a service, visit
-  https://liberapay.com/tilde.club If you can, we appreciate it, if you can't, we also appreciate you being here.
+- [;1git[0m repos for hacks: https://github.com/tildeclub
+- finger works locally and externally.
+- [;1memail[0m works, use mail, alpine, or mutt or webmail:
+  https://webmail.tilde.club
+- Lots of documentation on our [;1mwiki[0m at https://tilde.club/wiki/
+- A tilde.club [;1mmailing list[0m is available.
+- [;1mbbj[0m: bulletin butter and jelly, a cozy bbs in your terminal.
+- [;1mttrv[0m: Terminal based Reddit viewer.
+- asciifarm: lovely game by our very own ~troido.
+- botany: water your plants and help others take care of theirs.
+- [;1mdcss[0m: connect to crawl.tildeverse.org to play dungeon crawl stone soup.
+- Like tilde.club? Want to help financially? Feel free to [;1mdonate[0m.
 
 - Have questions?  Contact us at info@tilde.club or give a shout on irc in #club
 
 IMPORTANT NOTE: PLEASE DON'T HACK THE GIBSON. 
 
-Users can view updated Covid-19 world wide stats with the covid19-stats  command. 
-If you want to see your country specifically you can just for example "covid19-stats canada"  Would bring up Canada.
+Users can view updated Covid-19 world wide stats with the covid19-stats
+command. If you want to see your country specifically you can just for
+example "covid19-stats canada", which would bring up Canada.
 
 Stay safe everyone!
 
