@@ -39,3 +39,8 @@ $$$$$$\   $$\ $$ | $$$$$$$ | $$$$$$\      $$$$$$$\ $$ |$$\   $$\ $$$$$$$\
 - Like tilde.club? Want to help financially? Feel free to [4mdonate[0m.
 
 	IMPORTANT NOTE: PLEASE DON'T HACK THE GIBSON.
+
+** We have added "/usr/bin/nice -n 19" to all user crons to try and help the system  
+** cope with the amount of user crons that are being run on a regular basis.
+** Please** leave this in your crons.  And users adding crons please also use this 
+** command ahead of your commands in cron.
